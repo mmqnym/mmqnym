@@ -1,4 +1,4 @@
-![Banner](assets/banner-anime.png)
+![Banner](../assets/banner-anime.png)
 &nbsp;
 
 <p align="center">
