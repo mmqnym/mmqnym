@@ -11,18 +11,15 @@
 You can click buttons below to change read mode to see simplifier or normal version profile if you want.
 <p align="center">
 <a href="/README.md"><img src="https://shields.io/badge/ReadMode-Normal-834ce0?logo=GitHub&style=for-the-badge" alt="Normal"/></a> &nbsp;<a href="/versions/README.md"><img src="https://shields.io/badge/ReadMode-Simple-b942f5?logo=GitHub&style=for-the-badge" alt="Simple"/></a>
-</p>
 
-## 👋 &nbsp;Hi there
-<p>
+# 👋 &nbsp;Hi there
 I'm a software developer and blockchain player. I love to research and code blockchain related applications. In the past 1 year I've developed quite a few discord bots for blockchain activity monitoring. Now I'm working on web3 and smart contracts. Also am a volunteer for the largest DAO on Cronos chain - [Hidden Fish DAO](https://twitter.com/HiddenFishDAO). The next major goal is to become a validation node for Aptos chain and to learn Move language and write MVM-executable smart contracts. You can find me on [Twitter](https://twitter.com/0xmimiQ) or 0xmimiq@gmail.com.
-</p>
 
 &nbsp;
 
 ## 👨‍💻 &nbsp;Related application development on blockchains
 <p>
-<a href="https://ethereum.org/" target="_blank"><img src="/assets/ethereum.png" alt="ethereum"/></a> &nbsp;<a href="https://cronos.org/" target="_blank"><img src="/assets/cronos.png" alt="cronos"/></a> &nbsp;<a href="https://aptoslabs.com/" target="_blank"><img src="/assets/aptos.png" alt="aptos"/></a> &nbsp;<a href="https://solana.com/" target="_blank"><img src="/assets/solana.jpg" alt="solana"/></a>
+  <a href="https://ethereum.org/" target="_blank"><img src="/assets/ethereum.png" alt="ethereum"/></a> &nbsp;<a href="https://cronos.org/" target="_blank"><img src="/assets/cronos.png" alt="cronos"/></a> &nbsp;<a href="https://aptoslabs.com/" target="_blank"><img src="/assets/aptos.png" alt="aptos"/></a> &nbsp;<a href="https://solana.com/" target="_blank"><img src="/assets/solana.jpg" alt="solana"/></a>
 </p>
 
 &nbsp;
