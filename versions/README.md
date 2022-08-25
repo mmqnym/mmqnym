@@ -8,17 +8,21 @@
 &nbsp;
 
 ## 👀 &nbsp;Read Mode
+
 You can click buttons below to change read mode to see simplifier or normal version profile if you want.
+
 <p align="center">
 <a href="/README.md"><img src="https://shields.io/badge/Read%20Mode-Normal-834ce0?logo=GitHub&style=for-the-badge" alt="Normal"/></a> &nbsp;<a href="/versions/README.md"><img src="https://shields.io/badge/Read%20Mode-Simple-b942f5?logo=GitHub&style=for-the-badge" alt="Simple"/></a>
 </p>
 
 ## 👋 &nbsp;Hi there
+
 I'm a software developer and blockchain player. I love to research and code blockchain related applications. In the past 1 year I've developed quite a few discord bots for blockchain activity monitoring. Now I'm working on web3 and smart contracts. Also am a volunteer for the largest DAO on Cronos chain - [Hidden Fish DAO](https://twitter.com/HiddenFishDAO). The next major goal is to become a validation node for Aptos chain and to learn Move language and write MVM-executable smart contracts. You can find me on [Twitter](https://twitter.com/0xmimiQ) or 0xmimiq@gmail.com.
 
 &nbsp;
 
 ## 👨‍💻 &nbsp;Related application development on blockchains
+
 <p align="center">
 <a href="https://ethereum.org/" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge" alt="ethereum"/></a>
 <a href="https://cronos.org/" target="_blank"><img src="https://img.shields.io/badge/Cronos-375BD2?style=for-the-badge" alt="cronos"/></a>
@@ -29,6 +33,7 @@ I'm a software developer and blockchain player. I love to research and code bloc
 &nbsp;
 
 ## 🧰 &nbsp;Toolbox
+
 <h3 align="center">Language</h3>
 <p align="center">
   <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/></a>
@@ -62,6 +67,7 @@ I'm a software developer and blockchain player. I love to research and code bloc
   <a href="https://www.vultr.com/"><img src="https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr" alt="vultr"/></a>
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/></a>
   <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/></a>
+  <a href="https://www.digitalocean.com/"><img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean"/></a>
 </p>
 
 <h3 align="center">IDE and Editor</h3>
@@ -70,6 +76,7 @@ I'm a software developer and blockchain player. I love to research and code bloc
   <a href="https://hackmd.io/"><img src="https://img.shields.io/badge/HackMD-000000?style=for-the-badge" alt="HackMD"/></a>
   <a href="https://www.gitbook.com/"><img src="https://img.shields.io/badge/gitbook-%23121011.svg?style=for-the-badge&logo=GitBook&logoColor=white" alt="gitbook"/></a>
   <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
+  <a href="https://remix.ethereum.org/"><img src="https://img.shields.io/badge/Remix-e0e0e0?style=for-the-badge" alt="Remix"/></a>
 </p>
 
 <h3 align="center">Dev Toolsr</h3>
@@ -105,6 +112,7 @@ I'm a software developer and blockchain player. I love to research and code bloc
 &nbsp;
 
 ## 🖥 &nbsp;Past work
+
 <p align="left">
   <a href="https://github.com/0xmimiQ/eb_supporter"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=eb_supporter&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
   <a href="https://github.com/0xmimiQ/pyppeteer-use-case"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=0xmimiQ&repo=pyppeteer-use-case&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
@@ -116,6 +124,7 @@ I'm a software developer and blockchain player. I love to research and code bloc
 ## ✏️ &nbsp;Pin notes
 
 <!-- NOTE-LIST:START -->
+
 - [Web3 資安意識](https://0xmimiq.gitbook.io/web3-zi-an-yi-shi/)
 - [Phinex Finance on Cronos in Mandarin](https://app.gitbook.com/s/KD5ucI3LxceJPGHAByrK/bai-pi-shu-yuan-wen/bei-zhu)
 - [Aptos Doc](https://aptos.dev/)
