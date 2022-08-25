@@ -68,7 +68,7 @@ I'm a software developer and blockchain player. I love to research and code bloc
 <p align="center">
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/></a>
   <a href="https://hackmd.io/"><img src="https://img.shields.io/badge/HackMD-000000?style=for-the-badge" alt="HackMD"/></a>
-  <a href="https://www.gitbook.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=GitBook&logoColor=white" alt="gitbook"/></a>
+  <a href="https://www.gitbook.com/"><img src="https://img.shields.io/badge/gitbook-%23121011.svg?style=for-the-badge&logo=GitBook&logoColor=white" alt="gitbook"/></a>
   <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
 </p>
 
