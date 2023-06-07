@@ -124,8 +124,8 @@ Feel free to communicate with me in Chinese, English or Japanese!
 ## 📊 &nbsp;Stats
 
 <div class="flex">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=0xmimiQ&show_icons=true&bg_color=14121c&border_color=DDDDDD&title_color=f02e88&text_color=DDDDDD&count_private=true" alt="0xmimiQ's GitHub stats">
-  <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmimiQ&layout=compact&bg_color=14121c&border_color=DDDDDD&title_color=f02e88&text_color=DDDDDD&langs_count=8" alt="Most Used Languages">
+  <img width="59.5%" src="https://github-readme-stats.vercel.app/api?username=0xmimiQ&show_icons=true&bg_color=14121c&border_color=DDDDDD&title_color=f02e88&text_color=DDDDDD&count_private=true" alt="0xmimiQ's GitHub stats">
+  <img width="39.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmimiQ&layout=compact&bg_color=14121c&border_color=DDDDDD&title_color=f02e88&text_color=DDDDDD&langs_count=8" alt="Most Used Languages">
 </div>
 
 ## ☕ &nbsp;Support
