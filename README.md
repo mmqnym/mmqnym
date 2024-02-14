@@ -88,8 +88,7 @@ Feel free to communicate with me in Chinese, English or Japanese!
 
 <div class="flex">
   <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Vultr"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?
-style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=Vultr&logoColor=white" alt="Vultr"/></a>
 </div>
