@@ -135,6 +135,7 @@ Feel free to communicate with me in Chinese, English or Japanese!
 ## ☕ &nbsp;Support
 
 <div class="flex">
-  <a href="#"><img src="https://img.shields.io/badge/0xmimiq.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="0xmimiq.eth"/></a>
-  <a href="https://www.buymeacoffee.com/0xmimiQ"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" ></a>
+  <a href="https://etherscan.io/address/0x03762c4478518fbf036ed6062fe9035d2e6d0670"><img src="https://img.shields.io/badge/0xmimiq.eth-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white" alt="0xmimiq.eth"/></a>
+  <a href="https://solscan.io/account/55r7FvKkcddtgSDfGLKuLwjgJ5o5QiKpopWK7GMgwE2A"><img src="https://img.shields.io/badge/mmq88x.sol-9945FF?style=flat-square&logo=SOLANA&logoColor=white" alt="mmq88x.sol"/></a>
+  <a href="https://www.buymeacoffee.com/0xmimiQ"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" ></a>
 </div>
