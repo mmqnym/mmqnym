@@ -1,14 +1,14 @@
 ## 👋 &nbsp;About me
 
-Hi! I'm mmq88, a backend engineer mainly focused on multimedia production. My interests lie in researching and developing blockchain-related technologies and applications. I enjoy creating fun and convenient apps that improve people's lives.
+Hi! I'm 0xmmq, a backend engineer mainly focused on multimedia production. My interests lie in researching and developing blockchain-related technologies and applications. I enjoy creating fun and convenient apps that improve people's lives.
 
 Feel free to communicate with me in Chinese, English or Japanese!
 
 <div class="flex">
   <a href="mailto:mail@mmq.dev"><img width="40px" src="./assets/mail.png" alt="mail"/></a>&nbsp;
   <a href="https://discord.com/users/556392934904430593"><img width="40px" src="./assets/discord.png" alt="discord"/></a>&nbsp;
-  <a href="https://twitter.com/mmq88x"><img width="40px" src="./assets/twitter.png" alt="twitter"/></a>&nbsp;
-  <a href="https://t.me/mmq88x"><img width="40px" src="./assets/telegram.png" alt="telegram"/></a>
+  <a href="https://x.com/mmqnym"><img width="40px" src="./assets/twitter.png" alt="twitter"/></a>&nbsp;
+  <a href="https://t.me/mmqnym"><img width="40px" src="./assets/telegram.png" alt="telegram"/></a>
 </div>
 
 &nbsp;
@@ -16,12 +16,12 @@ Feel free to communicate with me in Chinese, English or Japanese!
 ## 📌 &nbsp;Past product
 
 <p align="left">
-  <a href="https://github.com/mmq88/quickcerts"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=quickcerts&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmq88/NFT-Market-Sniper"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=NFT-Market-Sniper&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmq88/Pwdport"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=Pwdport&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmq88/Currency-Bot-using-Line-API"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=Currency-Bot-using-Line-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmq88/Discord-NFT-Verifier-Client"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=Discord-NFT-Verifier-Client&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmq88/Discord-NFT-Verifier-Server"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=Discord-NFT-Verifier-Server&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqnym/quickcerts"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=quickcerts&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqnym/NFT-Market-Sniper"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=NFT-Market-Sniper&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqnym/Pwdport"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=Pwdport&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqnym/Currency-Bot-using-Line-API"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=Currency-Bot-using-Line-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqnym/Discord-NFT-Verifier-Client"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=Discord-NFT-Verifier-Client&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqnym/Discord-NFT-Verifier-Server"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=mmq88&repo=Discord-NFT-Verifier-Server&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
   
 </p>
 
@@ -128,8 +128,8 @@ Feel free to communicate with me in Chinese, English or Japanese!
 ## 📊 &nbsp;Stats
 
 <div class="flex">
-  <img width="59.5%" src="https://github-readme-stats.vercel.app/api?username=mmq88&show_icons=true&bg_color=14121c&border_color=DDDDDD&title_color=f02e88&text_color=DDDDDD&count_private=true" alt="mmq88's GitHub stats">
-  <img width="39.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmq88&layout=compact&bg_color=14121c&border_color=DDDDDD&title_color=f02e88&text_color=DDDDDD&langs_count=8" alt="Most Used Languages">
+  <img width="59.5%" src="https://github-readme-stats.vercel.app/api?username=mmqnym&show_icons=true&bg_color=14121c&border_color=DDDDDD&title_color=f02e88&text_color=DDDDDD&count_private=true" alt="mmq88's GitHub stats">
+  <img width="39.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmqnym&layout=compact&bg_color=14121c&border_color=DDDDDD&title_color=f02e88&text_color=DDDDDD&langs_count=8" alt="Most Used Languages">
 </div>
 
 ## ☕ &nbsp;Support
