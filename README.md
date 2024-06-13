@@ -8,7 +8,8 @@ If you have any questions about my projects or are interested in business cooper
   <a href="mailto:mail@mmq.dev"><img width="40px" src="./assets/mail.png" alt="mail"/></a>&nbsp;
   <a href="https://discord.com/users/556392934904430593"><img width="40px" src="./assets/discord.png" alt="discord"/></a>&nbsp;
   <a href="https://x.com/mmqnym"><img width="40px" src="./assets/twitter.png" alt="twitter"/></a>&nbsp;
-  <a href="https://t.me/mmqnym"><img width="40px" src="./assets/telegram.png" alt="telegram"/></a>
+  <a href="https://t.me/mmqnym"><img width="40px" src="./assets/telegram.png" alt="telegram"/></a>&nbsp;
+  <a href="./assets/wechat_p.png"><img width="40px" src="./assets/wechat.png" alt="wechat"/></a>
 </div>
 
 &nbsp;
