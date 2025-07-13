@@ -8,7 +8,7 @@
             "strongColor": "rgb(255,200,55)",
             "weakColor": "#aaaaaa",
             "radarColor": "rgb(255,200,55)",
-            "growingAnimation": false,
+            "growingAnimation": true,
             "saturation": "50%",
             "contribLightness": [
                 "20%",
@@ -17,6 +17,7 @@
                 "40%",
                 "50%"
             ],
+            "duration": "20s",
             "hueRatio": -7
         }
     ]
