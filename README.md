@@ -19,7 +19,7 @@ If you have any questions about my projects or are interested in business cooper
 &nbsp;
 ## 📊 &nbsp;Stats
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/custom.svg)
 
 &nbsp;
 
