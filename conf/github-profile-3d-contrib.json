@@ -1,22 +1,23 @@
 [
-    {
-        "type": "rainbow",
-        "fileName": "custom.svg",
-        "backgroundColor": "#00000f",
-        "foregroundColor": "#eeeeff",
-        "strongColor": "rgb(255,200,55)",
-        "weakColor": "#aaaaaa",
-        "radarColor": "rgb(255,200,55)",
-        "growingAnimation": false,
-        "saturation": "50%",
-        "contribLightness": [
-            "20%",
-            "30%",
-            "35%",
-            "40%",
-            "50%"
-        ],
-        "duration": "6s",
-        "hueRatio": -7
-    }
+    [
+        {
+            "type": "rainbow",
+            "fileName": "custom.svg",
+            "backgroundColor": "#00000f",
+            "foregroundColor": "#eeeeff",
+            "strongColor": "rgb(255,200,55)",
+            "weakColor": "#aaaaaa",
+            "radarColor": "rgb(255,200,55)",
+            "growingAnimation": false,
+            "saturation": "50%",
+            "contribLightness": [
+                "20%",
+                "30%",
+                "35%",
+                "40%",
+                "50%"
+            ],
+            "hueRatio": -7
+        }
+    ]
 ]
