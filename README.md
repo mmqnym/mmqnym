@@ -17,11 +17,6 @@ If you have any questions about my projects or are interested in business cooper
 </div>
 
 &nbsp;
-## 📊 &nbsp;Stats
-
-![](./profile-3d-contrib/custom.svg)
-
-&nbsp;
 
 ## 📌 &nbsp;Past product
 
@@ -115,7 +110,14 @@ If you have any questions about my projects or are interested in business cooper
 </div>
 
 &nbsp;
-## ☕️ &nbsp;Support
+## 📊 &nbsp;Stats
+
+<div style="flex-direction: row; flex-wrap: wrap; gap: 5px">
+  <img src="./profile-3d-contrib/custom.svg" alt="mmqnym_stats"/>
+</div>
+
+&nbsp;
+## ☕️ &nbsp;Payments
 
 <div style="flex-direction: row; flex-wrap: wrap; gap: 5px">
   <a href="https://etherscan.io/address/0x03762c4478518fbf036ed6062fe9035d2e6d0670"><img src="https://img.shields.io/badge/0xmmq.eth-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white" alt="0xmmq.eth"/></a>

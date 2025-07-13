@@ -7,7 +7,7 @@
         "strongColor": "rgb(255,200,55)",
         "weakColor": "#aaaaaa",
         "radarColor": "rgb(255,200,55)",
-        "growingAnimation": true,
+        "growingAnimation": false,
         "saturation": "50%",
         "contribLightness": [
             "20%",
