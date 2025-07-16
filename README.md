@@ -113,7 +113,7 @@ If you have any questions about my projects or are interested in business cooper
 ## 📊 &nbsp;Stats
 
 <div style="flex-direction: row; flex-wrap: wrap; gap: 5px">
-  <img src="./profile-3d-contrib/custom.svg" alt="mmqnym_stats"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="mmqnym_stats"/>
 </div>
 
 &nbsp;
