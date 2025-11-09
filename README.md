@@ -1,12 +1,12 @@
 ## 👋 &nbsp;About me
 
-Hi! I'm 0xmmq, a R&D engineer in the field of cybersecurity. I used to focus mainly on blockchain-related technologies, but now I primarily work on software development related to compliance management. My future goal is to become a software engineer who can conduct development with consideration of various cybersecurity perspectives.
+Hi! I'm mq, a R&D engineer in the field of cybersecurity. With extensive experience in blockchain-related technologies and cybersecurity knowledge, I've assisted in developing several DApps and have experience identifying vulnerabilities in DApps. Currently specializing in software development within cybersecurity, my scope covers compliance management, vulnerability scanning, threat intelligence gathering, and more. My goal is to continuously deepen my expertise in cybersecurity and become an irreplaceable software security development expert in the AI era.
 
-If you have any questions about my projects or are interested in business cooperation, feel free to DM me in English, Chinese, or Japanese. (To help me verify your message, kindly provide your complete information; otherwise, it may be mistaken for spam or a scam.)
+If you have any questions about my projects or are interested in business cooperation, feel free to DM me in English, Chinese, or Japanese. (To help me understand your message, kindly provide your complete information; otherwise, it may be mistaken for spam or a scam.)
 
-嗨！我是 0xmmq，一名資安領域的研發工程師。過去主要關注區塊鏈相關技術，現在則主要從事與合規管理相關的軟體開發，未來的目標是成為能考量各種資安角度來進行研發的軟體工程師。
+嗨！我是 mq，一名資安領域的研發工程師。具備豐富的區塊鏈相關技術經驗與資安知識，協助開發了數個 DApp，也有挖掘過 DApp 的漏洞經驗。目前專攻資安領域的軟體開發，範圍涵蓋合規管理、弱點掃描、威脅情資收集等，目標是持續深耕資安領域，成為 AI 時代下，難以取代的軟體安全開發專家。
 
-如果對我的專案有任何問題或是對商業合作感興趣，敬請以中、英或日文提供完整資訊謝謝。（若資訊不夠清晰將會視為詐欺或騷擾，敬請見諒。）
+如果對我的專案有任何問題或是商業合作洽談，敬請以中、英或日文提供完整資訊謝謝。（若資訊不夠清晰將會視為詐欺或騷擾，敬請見諒。）
 
 <div style="flex-direction: row; flex-wrap: wrap; gap: 5px">
   <a href="mailto:mail@mmq.dev"><img width="40px" src="./assets/mail.png" alt="mail"/></a>
@@ -27,8 +27,8 @@ If you have any questions about my projects or are interested in business cooper
   <a href="https://github.com/mmqnym/Currency-Bot-using-Line-API"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Currency-Bot-using-Line-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
   <a href="https://github.com/mmqnym/Discord-NFT-Verifier-Client"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Discord-NFT-Verifier-Client&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
   <a href="https://github.com/mmqnym/Discord-NFT-Verifier-Server"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Discord-NFT-Verifier-Server&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmqnym/GoInk"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=GoInk&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmqnym/tellme"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=tellme&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqnym/GoInk"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Learning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqnym/PolyME"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=PolyME&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
   
 </p>
 
@@ -40,6 +40,7 @@ If you have any questions about my projects or are interested in business cooper
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="15%"/>
   <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer Associate" width="15%"/>
   <img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Secutity+" width="15%"/>
+  <img src="https://images.credly.com/size/680x680/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" alt="CompTIA Pentest+" width="15%"/>
 </div>
 
 &nbsp;
