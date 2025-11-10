@@ -1,10 +1,10 @@
 ## 👋 &nbsp;About me
 
-Hi! I'm mq, a R&D engineer in the field of cybersecurity. With extensive experience in blockchain-related technologies and cybersecurity knowledge, I've assisted in developing several DApps and have experience identifying vulnerabilities in DApps. Currently specializing in software development within cybersecurity, my scope covers compliance management, vulnerability scanning, threat intelligence gathering, and more. My goal is to continuously deepen my expertise in cybersecurity and become an irreplaceable software security development expert in the AI era.
+Hi! I'm mq, a R&D engineer in the cybersecurity field. I possess extensive experience in blockchain-related technologies and cybersecurity knowledge, having developed several DApps and also discovered vulnerabilities in DApps. Currently specializing in software development within cybersecurity and vulnerability discovery, my scope covers compliance management, vulnerability scanning, threat intelligence gathering, vulnerability research, and more. My goal is to continuously deepen my expertise in cybersecurity and become an irreplaceable software security development expert in the AI era.
 
 If you have any questions about my projects or are interested in business cooperation, feel free to DM me in English, Chinese, or Japanese. (To help me understand your message, kindly provide your complete information; otherwise, it may be mistaken for spam or a scam.)
 
-嗨！我是 mq，一名資安領域的研發工程師。具備豐富的區塊鏈相關技術經驗與資安知識，協助開發了數個 DApp，也有挖掘過 DApp 的漏洞經驗。目前專攻資安領域的軟體開發，範圍涵蓋合規管理、弱點掃描、威脅情資收集等，目標是持續深耕資安領域，成為 AI 時代下，難以取代的軟體安全開發專家。
+嗨！我是 mq，一名資安領域的研發工程師。具備豐富的區塊鏈相關技術經驗與資安知識，開發過數個 DApp，也有挖掘過 DApp 的漏洞經驗。目前專攻資安領域的軟體開發以及漏洞挖掘，範圍涵蓋合規管理、弱點掃描、威脅情資收集、漏洞研究等，目標是持續深耕資安領域，成為 AI 時代下，難以取代的軟體安全開發專家。
 
 如果對我的專案有任何問題或是商業合作洽談，敬請以中、英或日文提供完整資訊謝謝。（若資訊不夠清晰將會視為詐欺或騷擾，敬請見諒。）
 
