@@ -27,7 +27,7 @@ If you have any questions about my projects or are interested in business cooper
   <a href="https://github.com/mmqnym/Currency-Bot-using-Line-API"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Currency-Bot-using-Line-API&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
   <a href="https://github.com/mmqnym/Discord-NFT-Verifier-Client"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Discord-NFT-Verifier-Client&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
   <a href="https://github.com/mmqnym/Discord-NFT-Verifier-Server"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Discord-NFT-Verifier-Server&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
-  <a href="https://github.com/mmqnym/GoInk"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Learning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
+  <a href="https://github.com/mmqnym/Learning"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=Learning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
   <a href="https://github.com/mmqnym/PolyME"><img width="350" src="https://github-api.mmq.dev/api/pin/?username=mmqnym&repo=PolyME&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Readme Card"></a>
   
 </p>
