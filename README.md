@@ -1,3 +1,7 @@
+<a href="https://mmq.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Barcode+39+Text&size=50&duration=3000&pause=1000&color=C47CEC&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=Click+here+to+see+more+details" alt="Typing SVG" />
+</a>
+
 ## 👋 &nbsp;About me
 
 Hi! I'm mq, a R&D engineer in the cybersecurity field. I possess extensive experience in blockchain-related technologies and cybersecurity knowledge, having developed several DApps and also discovered vulnerabilities in DApps. Currently specializing in software development within cybersecurity and vulnerability discovery, my scope covers compliance management, vulnerability scanning, threat intelligence gathering, vulnerability research, and more. My goal is to continuously deepen my expertise in cybersecurity and become an irreplaceable software security development expert in the AI era.
